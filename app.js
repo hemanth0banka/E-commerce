@@ -1,6 +1,6 @@
 const express = require("express")
 const app = express()
-const port = 2003
+const port = 2004
 const users = require("./routes/users.js")
 const products = require("./routes/product.js")
 const cart = require("./routes/cart.js")
